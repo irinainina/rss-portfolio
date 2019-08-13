@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rss-portfolio/static/css/main.d4f2d35c.chunk.css",
+    "main.js": "/rss-portfolio/static/js/main.bbaeddce.chunk.js",
+    "main.js.map": "/rss-portfolio/static/js/main.bbaeddce.chunk.js.map",
+    "runtime~main.js": "/rss-portfolio/static/js/runtime~main.2936a8dc.js",
+    "runtime~main.js.map": "/rss-portfolio/static/js/runtime~main.2936a8dc.js.map",
+    "static/js/2.3696b6ce.chunk.js": "/rss-portfolio/static/js/2.3696b6ce.chunk.js",
+    "static/js/2.3696b6ce.chunk.js.map": "/rss-portfolio/static/js/2.3696b6ce.chunk.js.map",
+    "index.html": "/rss-portfolio/index.html",
+    "precache-manifest.118fb7e4ce13b0d5bf4b9284aacae4d9.js": "/rss-portfolio/precache-manifest.118fb7e4ce13b0d5bf4b9284aacae4d9.js",
+    "service-worker.js": "/rss-portfolio/service-worker.js",
+    "static/css/main.d4f2d35c.chunk.css.map": "/rss-portfolio/static/css/main.d4f2d35c.chunk.css.map",
+    "static/media/0.jpg": "/rss-portfolio/static/media/0.1cc56b4b.jpg",
+    "static/media/1.jpg": "/rss-portfolio/static/media/1.9c491c7c.jpg",
+    "static/media/2.jpg": "/rss-portfolio/static/media/2.04a29dc3.jpg",
+    "static/media/3.jpg": "/rss-portfolio/static/media/3.52e462d3.jpg",
+    "static/media/4.jpg": "/rss-portfolio/static/media/4.e40909a5.jpg",
+    "static/media/5.jpg": "/rss-portfolio/static/media/5.65742cfc.jpg",
+    "static/media/6.jpg": "/rss-portfolio/static/media/6.8e98f501.jpg",
+    "static/media/logo.jpg": "/rss-portfolio/static/media/logo.0399e680.jpg"
+  }
+}
